@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brondonnono
 - 👀 I’m interested in web developement, mobile development and Machine Learning.
-- 🌱 I’m currently learning Data Science, Mobile and Web development. 
-- 💞️ I’m looking to collaborate on Angular, Ionic, Laravel Projects.
+- 🌱 I’m currently learning Web and Mobile development. 
+- 💞️ I’m looking to collaborate on Angular, Ionic, WordPress Projects.
 - 📫 How to reach me (brondonnono3@gmail.com)
 
 <!---
