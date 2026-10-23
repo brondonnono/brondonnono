@@ -1,81 +1,49 @@
-<h1 align="center">Hi there, I'm Wilfried Brondon NONO MABOU 👋</h1>
-
-<h3 align="center">Software Developer | TypeScript · Angular · Supabase · REST APIs</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/brondonnono" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:brondonnono3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Brondon 👋</h1>
+<h3 align="center">Frontend Developer — Angular · Ionic · TypeScript · PWA</h3>
+<p align="center">📍 Yaoundé, Cameroon · 🌍 Open to remote work · 🗣️ French (native) · English: intermediate, comfortable with technical documentation; spoken fluency in progress.</p>
 
 ---
 
-### 👨‍💻 About Me
+## About me
 
-I am a Software Developer based in **Yaoundé, Cameroon**, with 3 years of experience building and maintaining complex web platforms. I have worked on international projects (Switzerland, Canada) and local initiatives, focusing on scalable frontend architectures and secure database management.
+I'm a web & mobile developer with **3 years of experience** building Angular and Ionic applications, based in Yaoundé. I've worked with an international team (Switzerland / Cameroon) on a health PWA used in production in Africa, and I've delivered WordPress websites for organisations in Canada and Cameroon.
 
-- 🔭 I’m currently working on: Personal projects using **Supabase** and **PostgreSQL** (Data modeling, Row-Level Security).
-- 🌱 I’m currently learning: **Next.js** and deepening my knowledge in Platform Engineering.
-- 💼 I have strong experience with **Angular**, **TypeScript**, and **REST API** integration.
-- 🗣️ Languages: French (Native) & English (Professional).
-- ⚡ Fun fact: I also do freelance web development and I'm passionate about EdTech and HealthTech.
+I care about clean component architecture, readable code, and shipping things that work offline and on low-bandwidth connections. I'm always looking to learn new tools and improve my craft.
 
----
+## What I've worked on
 
-### 🛠️ Tech Stack & Tools
+> Production code from my professional work belongs to my employers and is private. The projects below are described, not published. Public projects will be listed below as they go online.
 
-**Frontend & Core:**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+| Project | What I did | Stack |
+|---|---|---|
+| **KimboCare** — health PWA (app.kimbocare.com) | Frontend developer on an Angular PWA: components, REST API integration, state management | Angular, TypeScript, RxJS, Firebase, PWA |
+| **African Health Awards** platform | Technical supervision of 2 junior developers (code review, task validation) | Angular, TypeScript, REST API |
+| **Event mobile app** | Hybrid mobile app with geolocation and post sharing | Ionic |
+| **Institutional websites** (Canada, Cameroon) | Redesign and maintenance of WordPress sites, including a hosting migration | WordPress, Elementor |
 
-**Backend & Databases:**
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
+## Tech stack
 
-**Tools & Workflow:**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-</p>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
----
+**Tools:** GitHub · Jira · Trello · Figma / Adobe XD (reading & implementing mockups) · Agile / Scrum
 
-### 🚀 Featured Projects
+## Currently learning
 
-#### 🏥 KimboCare Platform (HealthTech)
-*Contributed to a Swiss digital health startup as a Frontend Developer.*
-- Built responsive UI components and PWA features using **Angular** and **TypeScript**.
-- Integrated **REST APIs** and managed state with NgRx.
-*Tech:* TypeScript, Angular, Firebase, REST API.
-
-#### 🌍 African Health Awards Platform
-*Developed a platform for health evaluations and awards across Africa.*
-- Supervised the development of client and admin applications by two junior developers and reviewed code.
-- Ensured data integrity and bilingual interface (FR/EN).
-*Tech:* TypeScript, Angular, REST API.
-
-#### 🗄️ Supabase Personal Projects
-*Currently building personal projects to master relational databases.*
-- Designing database schemas and implementing **Row-Level Security (RLS)** policies.
-- Integrating authentication and data storage.
-*Tech:* Supabase, PostgreSQL, TypeScript.
+- ⚛️ **React, NextJs** — active learning
+- 🧪 **Unit testing** for Angular (Jasmine) — reducers, selectors, services
+- 🗄️ **Supabase & PostgreSQL** — exploring relational databases for personal projects
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brondonnono&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
@@ -83,6 +51,20 @@ I am a Software Developer based in **Yaoundé, Cameroon**, with 3 years of exper
 </p>
 
 ---
-<p align="center">
-  <i>Let's connect and build something amazing!</i>
-</p>
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brondonnono)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brondonnono3@gmail.com)
+
+---
+<details>
+<summary>🇫🇷 En français</summary>
+
+Développeur Frontend (Angular, Ionic, TypeScript, PWA) avec 3 ans d'expérience, basé à Yaoundé et ouvert au travail à distance. J'ai travaillé avec une équipe internationale (Suisse / Cameroun) sur une PWA de santé en production, supervisé deux développeurs juniors sur une plateforme Angular, et livré des sites WordPress pour des organisations canadiennes et camerounaises.
+
+Le code de mes projets professionnels appartient à mes employeurs et reste privé. Mes projets publics apparaîtront ici au fur et à mesure.
+
+Actuellement, j'explore React et les bases de données relationnelles (Supabase/PostgreSQL) pour élargir mes compétences.
+
+</details>
