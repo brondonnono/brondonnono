@@ -59,13 +59,13 @@ I am a Software Developer based in **Yaoundé, Cameroon**, with 3 years of exper
 *Contributed to a Swiss digital health startup as a Frontend Developer.*
 - Built responsive UI components and PWA features using **Angular** and **TypeScript**.
 - Integrated **REST APIs** and managed state with NgRx.
-- Supervised two junior developers and reviewed code.
 *Tech:* TypeScript, Angular, Firebase, REST API.
 
 #### 🌍 African Health Awards Platform
 *Developed a platform for health evaluations and awards across Africa.*
 - Supervised the development of client and admin applications.
 - Ensured data integrity and bilingual interface (FR/EN).
+- Supervised two junior developers and reviewed code.
 *Tech:* TypeScript, Angular, REST API.
 
 #### 🗄️ Supabase Personal Projects
