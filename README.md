@@ -78,8 +78,8 @@ I am a Software Developer based in **Yaoundé, Cameroon**, with 3 years of exper
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_NOM_UTILISATEUR_GITHUB&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_UTILISATEUR_GITHUB&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brondonnono&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brondonnono&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
