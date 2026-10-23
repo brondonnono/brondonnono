@@ -63,9 +63,8 @@ I am a Software Developer based in **Yaoundé, Cameroon**, with 3 years of exper
 
 #### 🌍 African Health Awards Platform
 *Developed a platform for health evaluations and awards across Africa.*
-- Supervised the development of client and admin applications.
+- Supervised the development of client and admin applications by two junior developers and reviewed code.
 - Ensured data integrity and bilingual interface (FR/EN).
-- Supervised two junior developers and reviewed code.
 *Tech:* TypeScript, Angular, REST API.
 
 #### 🗄️ Supabase Personal Projects
